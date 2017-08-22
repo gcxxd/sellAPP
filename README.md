@@ -1,17 +1,20 @@
-# sell
+# SELL-APP
 
-> sell app
-
-## Build Setup
+> VUE2.0仿外卖APP
+>效果预览
+![image](http://github.com/gcxxd/sellApp/raw/master/img/pic1.jpg)
+![image](http://github.com/gcxxd/sellApp/raw/master/img/pic2.jpg)
+![image](http://github.com/gcxxd/sellApp/raw/master/img/pic3.jpg)
+## 安装与运行
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 服务端运行访问localhost:8080
 npm run dev
 
-# build for production with minification
+# 项目打包
 npm run build
 
 # build for production and view the bundle analyzer report
