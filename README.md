@@ -1,7 +1,7 @@
 # SELL-APP
 
 > VUE2.0仿外卖APP
->效果预览
+效果预览
 ![Image text](http://github.com/gcxxd/sellApp/raw/master/img/pic1.jpg)
 ![Image text](http://github.com/gcxxd/sellApp/raw/master/img/pic2.jpg)
 ![Image text](http://github.com/gcxxd/sellApp/raw/master/img/pic3.jpg)
