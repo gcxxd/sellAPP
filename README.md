@@ -1,9 +1,9 @@
 # SELL-APP
 
 > VUE2.0仿外卖APP
-![image text](http://github.com/gcxxd/sellApp/raw/master/img/pic1.jpg)
-![image text](http://github.com/gcxxd/sellApp/raw/master/img/pic2.jpg)
-![image text](http://github.com/gcxxd/sellApp/raw/master/img/pic3.jpg)
+![image text](https://github.com/gcxxd/sellApp/raw/master/img/pic1.jpg)
+![image text](https://github.com/gcxxd/sellApp/raw/master/img/pic2.jpg)
+![image text](https://github.com/gcxxd/sellApp/raw/master/img/pic3.jpg)
 ## 安装与运行
 
 ``` bash
